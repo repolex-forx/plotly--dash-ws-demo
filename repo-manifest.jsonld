@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-ws-demo/commit/8c0f0352eb4c31f9c145f6a712fce9bd61a1ca21",
       "git:hexsha": "8c0f0352eb4c31f9c145f6a712fce9bd61a1ca21",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
